@@ -1,5 +1,5 @@
 ## REPLit url click [here](https://replit.com/@DivinefavourDav/guessingGame)
-
+Or you can copy the url -> https://replit.com/@DivinefavourDav/guessingGame
 
 ### Before you start the game.
 
